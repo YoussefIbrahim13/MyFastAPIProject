@@ -36,7 +36,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/youssefibrahim13/myfastapiproject .git
 cd your-repo
 Install dependencies:
 
